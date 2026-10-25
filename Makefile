@@ -1,3 +1,4 @@
+GO_EASY_ON_ME = 1
 ifeq ($(ROOTLESS),1)
 THEOS_PACKAGE_SCHEME = rootless
 else ifeq ($(ROOTHIDE),1)
